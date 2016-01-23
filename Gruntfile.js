@@ -16,7 +16,7 @@ module.exports = function (grunt) {
                 collapseWhitespace: true
             },
             files: {
-                    'public_html/src/index.html': 'public_html/src/index.html'
+                    'public_html/index.html': 'public_html/src/index.html'
                     //"app/index.min.html": "app/index.html"
                 }
             }
